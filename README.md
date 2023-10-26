@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mohit2102
-- 👀 I’m interested in software developer
+- 👀 I’m interested in developer
 - 🌱 I’m currently learning Java 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mohit2102k@gmail.com
